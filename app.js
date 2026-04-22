@@ -1,5 +1,5 @@
 function getMessage() {
-    return "Hello from FEATURE branch";
+    return "Hello from FEATURE upgrade branch";
 }
 
 console.log(getMessage());
